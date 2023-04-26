@@ -17,7 +17,7 @@
 
 ## Contact Me
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a6ed1?style=for-the-badge&logo=LINKEDIN&logoColor=white&labelColor=101010)]()
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a6ed1?style=for-the-badge&logo=LINKEDIN&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fabriciospiritosi)
 
 
 <!--
