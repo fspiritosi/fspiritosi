@@ -5,7 +5,7 @@
 
 I'm a full stack web developer. 
 
-https://user-images.githubusercontent.com/35983630/234655597-30cc843b-92eb-43c9-8972-ae3db91103d8.png
+![Abstract Profile Photo Instagram Post (1)](https://user-images.githubusercontent.com/35983630/234656702-6fdaa7cd-fc46-4cb8-bc1b-e9435c251b2c.png)
 
 
 ## Skills
