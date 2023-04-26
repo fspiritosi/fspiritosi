@@ -15,6 +15,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
 
+## Contact Me
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a6ed1?style=for-the-badge&logo=LINKEDIN&logoColor=white&labelColor=101010)]()
 
 
 <!--
