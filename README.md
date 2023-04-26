@@ -5,7 +5,7 @@
 
 I'm a full stack web developer. 
 
-https://github.com/fspiritosi/fspiritosi/issues/1#issue-1685438513
+https://user-images.githubusercontent.com/35983630/234655597-30cc843b-92eb-43c9-8972-ae3db91103d8.png
 
 
 ## Skills
