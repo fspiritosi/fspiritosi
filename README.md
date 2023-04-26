@@ -1,9 +1,13 @@
 ![Abstract Profile Photo Instagram Post (3)](https://user-images.githubusercontent.com/35983630/234660637-24c3cd56-1fd9-4ff6-b98a-0411cba4b4f6.png)
 
-### Hi 👋 🖖,
-### I'm Fabricio Spiritosi or you can said me Spiri 
+## Hi 👋 🖖, I'm Fabricio Spiritosi or you can said me Spiri 
 
-⭐ Welcome to my Github profile!!! ⭐
+### ⭐ Welcome to my Github profile!!! ⭐
+
+#### Web app development is my passion, the work that I enjoy and do with total pleasure.
+#### I am currently in the final stage of a training bootcamp at soyHenry.
+#### I have the desire to be part of the amazing Tech industry.
+#### Develop and be happy! 💻
 
 ## Skills
 
