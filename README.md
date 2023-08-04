@@ -22,7 +22,7 @@
 ## Contact Me
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a6ed1?style=for-the-badge&logo=LINKEDIN&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fabriciospiritosi)
-a href="mailto:fspiritosi@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:fspiritosi@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Software and Tools
 <p>
