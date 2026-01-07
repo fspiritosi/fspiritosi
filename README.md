@@ -5,9 +5,10 @@
 ### ⭐ Welcome to my Github profile!!! ⭐
 
 #### Web app development is my passion, the work that I enjoy and do with total pleasure.
-#### I am currently in the final stage of a training bootcamp at soyHenry.
-#### I have the desire to be part of the amazing Tech industry.
-#### Develop and be happy! 💻
+#### Three years ago I decided to found Codecontrol SAS. An Argentine SME dedicated to the development of software for small and medium-sized companies.
+#### At Codecontrol we are happy to help our clients have access to their information in an orderly manner.
+
+#### Imagine and Create, develop and be happy 💻
 
 ## Skills
 
